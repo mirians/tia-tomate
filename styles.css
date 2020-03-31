@@ -1,0 +1,148 @@
+body {
+  height: 100%;
+  background-color: #fff; }
+
+body {
+  margin: 0%; }
+
+img {
+  max-width: 100%; }
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 100px; }
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 70px; }
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 50px; }
+
+p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 18px; }
+
+.main {
+  text-align: center; }
+
+.main__title {
+  color: #fff;
+  background-color: #e56353;
+  padding-top: 6rem;
+  padding-bottom: 6rem; }
+
+.main__emphasis {
+  font-size: 100px;
+  font-weight: 700; }
+
+.about-1 {
+  color: #fff;
+  background-color: #91918d;
+  padding-bottom: 2rem; }
+
+.about-1__image {
+  padding-top: 4rem;
+  width: 80%; }
+
+.about-1__title {
+  font-weight: 700; }
+
+.about-1__text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: left; }
+
+.about-2 {
+  color: #686963;
+  background-color: #fff; }
+
+.about-2__image {
+  padding-top: 4rem;
+  width: 80%; }
+
+.about-2__title {
+  font-weight: 700; }
+
+.about-2__text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: left; }
+
+.about-3__title {
+  color: #fff;
+  background-color: #e97f72;
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
+.article-1__image {
+  width: 30%; }
+
+.article-1__text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: left; }
+
+.article-2__image {
+  padding-top: 3rem;
+  width: 30%; }
+
+.article-2__text {
+  margin-left: auto; }
+
+.article-2__text {
+  margin-right: auto;
+  width: 60%;
+  text-align: left; }
+
+.order {
+  background-color: #e56353;
+  padding-bottom: 1.5rem; }
+
+.order__title {
+  color: #fff; }
+
+.header {
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 1rem; }
+
+.logo__image {
+  width: 200px; }
+
+.footer {
+  text-align: center;
+  background-color: #686963; }
+
+.order {
+  background-color: #e56353;
+  padding-top: 3rem;
+  padding-bottom: 2rem; }
+
+.logo-footer {
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
+.order__button {
+  border-radius: 50px;
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+  color: #686963;
+  background-color: #fff;
+  border: none;
+  padding: 0.5rem;
+  padding-left: 4rem;
+  padding-right: 4rem; }
+
+/*# sourceMappingURL=styles.css.map */

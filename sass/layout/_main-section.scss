@@ -1,0 +1,101 @@
+.main {
+   text-align: center;
+}
+
+.main__title {
+    color: $white;
+    background-color: $JellyBean;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.main__emphasis {
+    font-size: $xx-large;
+    font-weight: $Bold;
+}
+
+.about-1 {
+    color: $white;
+    background-color: $Taupegray;
+    padding-bottom: 2rem;
+}
+
+.about-1__image {
+    padding-top: 4rem;
+    width: 80%;
+}
+
+.about-1__title {
+    font-weight: $Bold;
+}
+
+.about-1__text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: left;
+}
+
+.about-2 {
+    color: $Granitegray;
+    background-color: $white;
+}
+
+.about-2__image {
+    padding-top: 4rem;
+    width: 80%;
+}
+
+.about-2__title {
+    font-weight: $Bold;
+}
+
+.about-2__text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: left;
+}
+
+.about-3__title {
+    color: $white;
+    background-color: $Salmon;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.article-1__image {
+    width: 30%;
+}
+
+.article-1__text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: left;
+}
+
+.article-2__image {
+    padding-top: 3rem;
+    width: 30%;
+}
+
+.article-2__text {
+    margin-left: auto;
+}
+
+.article-2__text {
+    margin-right: auto;   
+    width: 60%;
+    text-align: left;
+}
+
+.order {
+    background-color: $JellyBean;
+    padding-bottom: 1.5rem;
+}
+
+.order__title {
+    color: $white;
+}
+
